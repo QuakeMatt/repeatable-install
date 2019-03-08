@@ -1,0 +1,151 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\AppEvents\Schemes]
+@="Matt"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\.Default\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\AppGPFault\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\CCSelect\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\ChangeTheme\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Close\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm\Matt]
+@="C:\\Windows\\media\\Windows Foreground.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceConnect\Matt]
+@="C:\\Windows\\media\\Windows Hardware Insert.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceDisconnect\Matt]
+@="C:\\Windows\\media\\Windows Hardware Remove.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\DeviceFail\Matt]
+@="C:\\Windows\\media\\Windows Hardware Fail.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\FaxBeep\Matt]
+@="C:\\Windows\\media\\Windows Notify Email.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\LowBatteryAlarm\Matt]
+@="C:\\Windows\\media\\Windows Background.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MailBeep\Matt]
+@="C:\\Windows\\media\\Windows Notify Email.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Maximize\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MenuCommand\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MenuPopup\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\MessageNudge\Matt]
+@="C:\\Windows\\media\\Windows Message Nudge.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Minimize\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Default\Matt]
+@="C:\\Windows\\media\\Windows Notify System Generic.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.IM\Matt]
+@="C:\\Windows\\media\\Windows Notify Messaging.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Mail\Matt]
+@="C:\\Windows\\media\\Windows Notify Email.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Proximity\Matt]
+@="C:\\Windows\\media\\Windows Proximity Notification.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.Reminder\Matt]
+@="C:\\Windows\\media\\Windows Notify Calendar.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Notification.SMS\Matt]
+@="C:\\Windows\\media\\Windows Notify Messaging.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\Open\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\PrintComplete\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\ProximityConnection\Matt]
+@="C:\\Windows\\media\\Windows Proximity Connection.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\RestoreDown\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\RestoreUp\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\ShowBand\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemAsterisk\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemExclamation\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemHand\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemNotification\Matt]
+@="C:\\Windows\\media\\Windows Background.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemQuestion\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\WindowsUAC\Matt]
+@="C:\\Windows\\media\\Windows User Account Control.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\ActivatingDocument\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\BlockedPopup\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\FeedDiscovered\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\MoveMenuItem\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\Navigating\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\Explorer\SecurityBand\Matt]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\DisNumbersSound\Matt]
+@="C:\\Windows\\media\\Speech Disambiguation.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubOffSound\Matt]
+@="C:\\Windows\\media\\Speech Off.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubOnSound\Matt]
+@="C:\\Windows\\media\\Speech On.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\HubSleepSound\Matt]
+@="C:\\Windows\\media\\Speech Sleep.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\MisrecoSound\Matt]
+@="C:\\Windows\\media\\Speech Misrecognition.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\sapisvr\PanelSound\Matt]
+@="C:\\Windows\\media\\Speech Disambiguation.wav"
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Names\Matt]
+@="Matt"

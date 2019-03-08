@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\shell\Console]
+@="Open console here"
+"NoWorkingDirectory"=""
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\shell\Console\command]
+@="powershell.exe -noexit -command Set-Location '%V'"
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\Background\shell\Console]
+@="Open console here"
+"NoWorkingDirectory"=""
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\Background\shell\Console\command]
+@="powershell.exe -noexit -command Set-Location -literalPath '%V'"
