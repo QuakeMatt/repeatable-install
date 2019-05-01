@@ -18,6 +18,7 @@ scoop update *
 & "$PSScriptRoot/hotkeys/install.ps1"
 & "$PSScriptRoot/node/install.ps1"
 & "$PSScriptRoot/picpick/install.ps1"
+& "$PSScriptRoot/vscode/install.ps1"
 
 # Run system configuration
 & "$PSScriptRoot/explorer/install.ps1"
