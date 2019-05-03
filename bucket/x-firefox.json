@@ -1,0 +1,46 @@
+{
+    "description": "Popular open source web browser. Cross-platform and available in many languages.",
+    "homepage": "https://www.mozilla.org/en-GB/firefox/new/",
+    "version": "66.0.3",
+    "license": "MPL-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://download.mozilla.org/?product=firefox-66.0.3-SSL&os=win64&lang=en-GB#/firefox.7z",
+            "hash": "0eee11329b0087f84d5c66812564edea256807c331851e3b326a6b0589e1f656"
+        },
+        "32bit": {
+            "url": "https://download.mozilla.org/?product=firefox-66.0.3-SSL&os=win&lang=en-GB#/firefox.7z",
+            "hash": "4498e37849d4bac1f7529d5d2c29684425e12cfdcba1adf04a81cbcb8779089f"
+        }
+    },
+    "extract_dir": "core",
+    "bin": "firefox.exe",
+    "shortcuts": [
+        [
+            "firefox.exe",
+            "Mozilla Firefox"
+        ]
+    ],
+    "checkver": {
+        "url": "https://www.mozilla.org/en-GB/firefox/all/",
+        "re": "data-latest-firefox=\"([\\d.]+)\""
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://download.mozilla.org/?product=firefox-$version-SSL&os=win64&lang=en-GB#/firefox.7z",
+                "hash": {
+                    "find": "([a-fA-F0-9]{64})\\s+(?:win64/en-GB/Firefox Setup ([\\d.]+).exe)",
+                    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/$version/SHA256SUMS"
+                }
+            },
+            "32bit": {
+                "url": "https://download.mozilla.org/?product=firefox-$version-SSL&os=win&lang=en-GB#/firefox.7z",
+                "hash": {
+                    "find": "([a-fA-F0-9]{64})\\s+(?:win32/en-GB/Firefox Setup ([\\d.]+).exe)",
+                    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/$version/SHA256SUMS"
+                }
+            }
+        }
+    }
+}

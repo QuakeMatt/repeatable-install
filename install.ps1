@@ -14,6 +14,7 @@ scoop update *
 # Run software installation
 & "$PSScriptRoot/7tt/install.ps1"
 & "$PSScriptRoot/console/install.ps1"
+& "$PSScriptRoot/firefox/install.ps1"
 & "$PSScriptRoot/git/install.ps1"
 & "$PSScriptRoot/hotkeys/install.ps1"
 & "$PSScriptRoot/node/install.ps1"
