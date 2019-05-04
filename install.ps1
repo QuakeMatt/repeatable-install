@@ -19,6 +19,7 @@ scoop update *
 & "$PSScriptRoot/git/install.ps1"
 & "$PSScriptRoot/hotkeys/install.ps1"
 & "$PSScriptRoot/node/install.ps1"
+& "$PSScriptRoot/notepad/install.ps1"
 & "$PSScriptRoot/picpick/install.ps1"
 & "$PSScriptRoot/vscode/install.ps1"
 
