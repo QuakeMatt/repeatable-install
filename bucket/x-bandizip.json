@@ -1,0 +1,21 @@
+{
+    "homepage": "http://www.bandisoft.com/bandizip/",
+    "license": "Freeware(EULA)",
+    "version": "6.22",
+    "hash": "062967e3d20f474de5ad363b1c45b29bda279c0c58b1af3f9ec7afe7ffad8c95",
+    "url": "https://dl.bandisoft.com/bandizip/BANDIZIP-SETUP.EXE#/dl.7z",
+    "bin": "Bandizip64.exe",
+    "shortcuts": [
+        [
+            "Bandizip64.exe",
+            "Bandizip"
+        ]
+    ],
+    "checkver": {
+        "url": "https://en.bandisoft.com/bandizip/history/",
+        "re": "<font[^>]+>v([\\d.]+)<"
+    },
+    "autoupdate": {
+        "url": "https://dl.bandisoft.com/bandizip/BANDIZIP-SETUP.EXE#/dl.7z"
+    }
+}

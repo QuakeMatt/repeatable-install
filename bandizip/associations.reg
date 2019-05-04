@@ -1,0 +1,553 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\*\shellex\ContextMenuHandlers\AABdzCtx]
+@="{5B69A6B4-393B-459C-8EBB-214237A9E7AC}"
+
+[HKEY_CURRENT_USER\Software\Classes\.001]
+@="Bandizip.001"
+
+[HKEY_CURRENT_USER\Software\Classes\.7z]
+@="Bandizip.7z"
+
+[HKEY_CURRENT_USER\Software\Classes\.ace]
+@="Bandizip.ace"
+
+[HKEY_CURRENT_USER\Software\Classes\.aes]
+@="Bandizip.aes"
+
+[HKEY_CURRENT_USER\Software\Classes\.alz]
+@="Bandizip.alz"
+
+[HKEY_CURRENT_USER\Software\Classes\.arc]
+@="Bandizip.arc"
+
+[HKEY_CURRENT_USER\Software\Classes\.arj]
+@="Bandizip.arj"
+
+[HKEY_CURRENT_USER\Software\Classes\.bh]
+@="Bandizip.bh"
+
+[HKEY_CURRENT_USER\Software\Classes\.bz]
+@="Bandizip.bz"
+
+[HKEY_CURRENT_USER\Software\Classes\.bz2]
+@="Bandizip.bz2"
+
+[HKEY_CURRENT_USER\Software\Classes\.cab]
+@="Bandizip.cab"
+
+[HKEY_CURRENT_USER\Software\Classes\.egg]
+@="Bandizip.egg"
+
+[HKEY_CURRENT_USER\Software\Classes\.gz]
+@="Bandizip.gz"
+
+[HKEY_CURRENT_USER\Software\Classes\.lha]
+@="Bandizip.lha"
+
+[HKEY_CURRENT_USER\Software\Classes\.lz]
+@="Bandizip.lz"
+
+[HKEY_CURRENT_USER\Software\Classes\.lzh]
+@="Bandizip.lzh"
+
+[HKEY_CURRENT_USER\Software\Classes\.lzma]
+@="Bandizip.lzma"
+
+[HKEY_CURRENT_USER\Software\Classes\.pma]
+@="Bandizip.pma"
+
+[HKEY_CURRENT_USER\Software\Classes\.rar]
+@="Bandizip.rar"
+
+[HKEY_CURRENT_USER\Software\Classes\.tar]
+@="Bandizip.tar"
+
+[HKEY_CURRENT_USER\Software\Classes\.tbz]
+@="Bandizip.tbz"
+
+[HKEY_CURRENT_USER\Software\Classes\.tbz2]
+@="Bandizip.tbz2"
+
+[HKEY_CURRENT_USER\Software\Classes\.tgz]
+@="Bandizip.tgz"
+
+[HKEY_CURRENT_USER\Software\Classes\.tlz]
+@="Bandizip.tlz"
+
+[HKEY_CURRENT_USER\Software\Classes\.txz]
+@="Bandizip.txz"
+
+[HKEY_CURRENT_USER\Software\Classes\.xz]
+@="Bandizip.xz"
+
+[HKEY_CURRENT_USER\Software\Classes\.z]
+@="Bandizip.z"
+
+[HKEY_CURRENT_USER\Software\Classes\.zip]
+@="Bandizip.zip"
+
+[HKEY_CURRENT_USER\Software\Classes\.zipx]
+@="Bandizip.zipx"
+
+[HKEY_CURRENT_USER\Software\Classes\.zpaq]
+@="Bandizip.zpaq"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.001]
+@="Compressed File (001)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.001\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\001.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.001\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.001\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.001\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.7z]
+@="Compressed File (7Z)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.7z\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\7z.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.7z\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.7z\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.7z\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.ace]
+@="Compressed File (ACE)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.ace\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\Bandizip.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.ace\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.ace\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.ace\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.aes]
+@="Compressed File (AES)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.aes\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\Bandizip.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.aes\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.aes\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.aes\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.alz]
+@="Compressed File (ALZ)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.alz\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\alz.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.alz\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.alz\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.alz\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.arc]
+@="Compressed File (Arc)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.arc\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\Bandizip.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.arc\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.arc\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.arc\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.arj]
+@="Compressed File (ARJ)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.arj\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\Bandizip.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.arj\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.arj\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.arj\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.bh]
+@="Compressed File (BH)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.bh\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\Bandizip.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.bh\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.bh\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.bh\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.bz]
+@="Compressed File (BZ)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.bz2]
+@="Compressed File (BZ2)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.bz2\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\bz2.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.bz2\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.bz2\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.bz2\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.bz\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\Bandizip.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.bz\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.bz\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.bz\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.cab]
+@="Compressed File (CAB)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.cab\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\cab.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.cab\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.cab\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.cab\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.egg]
+@="Compressed File (EGG)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.egg\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\egg.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.egg\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.egg\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.egg\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.gz]
+@="Compressed File (GZ)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.gz\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\gz.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.gz\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.gz\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.gz\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.lha]
+@="Compressed File (LHA)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.lha\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\lha.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.lha\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.lha\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.lha\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.lz]
+@="Compressed File (LZ)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.lz\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\Bandizip.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.lz\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.lz\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.lz\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.lzh]
+@="Compressed File (LZH)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.lzh\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\lzh.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.lzh\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.lzh\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.lzh\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.lzma]
+@="Compressed File (LZMA)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.lzma\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\Bandizip.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.lzma\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.lzma\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.lzma\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.pma]
+@="Compressed File (PMA)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.pma\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\Bandizip.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.pma\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.pma\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.pma\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.rar]
+@="Compressed File (RAR)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.rar\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\rar.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.rar\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.rar\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.rar\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tar]
+@="Compressed File (TAR)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tar\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\tar.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tar\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tar\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tar\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tbz]
+@="Compressed File (TBZ)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tbz2]
+@="Compressed File (TBZ2)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tbz2\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\tbz2.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tbz2\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tbz2\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tbz2\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tbz\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\tbz.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tbz\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tbz\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tbz\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tgz]
+@="Compressed File (TGZ)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tgz\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\tgz.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tgz\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tgz\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tgz\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tlz]
+@="Compressed File (TLZ)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tlz\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\Bandizip.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tlz\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tlz\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.tlz\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.txz]
+@="Compressed File (TXZ)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.txz\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\Bandizip.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.txz\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.txz\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.txz\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.xz]
+@="Compressed File (XZ)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.xz\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\xz.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.xz\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.xz\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.xz\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.z]
+@="Compressed File (Z)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.z\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\Bandizip.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.z\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.z\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.z\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.zip]
+@="Compressed File (ZIP)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.zip\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\zip.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.zip\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.zip\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.zip\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.zipx]
+@="Compressed File (ZIPX)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.zipx\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\zipx.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.zipx\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.zipx\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.zipx\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.zpaq]
+@="Compressed File (ZPAQ)"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.zpaq\DefaultIcon]
+@="%BANDIZIP%\\icons\\default\\Bandizip.ico"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.zpaq\Shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.zpaq\Shell\Open]
+"FriendlyAppName"="Bandizip"
+
+[HKEY_CURRENT_USER\Software\Classes\Bandizip.zpaq\Shell\Open\Command]
+@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{5B69A6B4-393B-459C-8EBB-214237A9E7AC}]
+@="AABdzCtx Class"
+
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{5B69A6B4-393B-459C-8EBB-214237A9E7AC}\InprocServer32]
+@="%BANDIZIP%\\bdzshl64.dll"
+"ThreadingModel"="Apartment"
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\Background\shellex\ContextMenuHandlers\AABdzCtx]
+@="{5B69A6B4-393B-459C-8EBB-214237A9E7AC}"
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\shellex\ContextMenuHandlers\AABdzCtx]
+@="{5B69A6B4-393B-459C-8EBB-214237A9E7AC}"
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\shellex\DragDropHandlers]
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\shellex\DragDropHandlers\AABdzCtx]
+@="{5B69A6B4-393B-459C-8EBB-214237A9E7AC}"
+
+[HKEY_CURRENT_USER\Software\Classes\Drive]
+
+[HKEY_CURRENT_USER\Software\Classes\Drive\ShellEx]
+
+[HKEY_CURRENT_USER\Software\Classes\Drive\ShellEx\ContextMenuHandlers]
+
+[HKEY_CURRENT_USER\Software\Classes\Drive\ShellEx\ContextMenuHandlers\AABdzCtx]
+@="{5B69A6B4-393B-459C-8EBB-214237A9E7AC}"
+
+[HKEY_CURRENT_USER\Software\Classes\Drive\ShellEx\DragDropHandlers]
+
+[HKEY_CURRENT_USER\Software\Classes\Drive\ShellEx\DragDropHandlers\AABdzCtx]
+@="{5B69A6B4-393B-459C-8EBB-214237A9E7AC}"
+
+[HKEY_CURRENT_USER\Software\Classes\WOW6432Node\CLSID\{5B69A6B4-393B-459C-8EBB-214237A9E7AC}]
+@="AABdzCtx Class"
+
+[HKEY_CURRENT_USER\Software\Classes\WOW6432Node\CLSID\{5B69A6B4-393B-459C-8EBB-214237A9E7AC}\InprocServer32]
+@="%BANDIZIP%\\bdzshl32.dll"
+"ThreadingModel"="Apartment"

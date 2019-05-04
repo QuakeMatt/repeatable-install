@@ -13,6 +13,7 @@ scoop update *
 
 # Run software installation
 & "$PSScriptRoot/7tt/install.ps1"
+& "$PSScriptRoot/bandizip/install.ps1"
 & "$PSScriptRoot/console/install.ps1"
 & "$PSScriptRoot/firefox/install.ps1"
 & "$PSScriptRoot/git/install.ps1"
