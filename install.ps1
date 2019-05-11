@@ -11,6 +11,15 @@ scoop bucket add extras
 scoop bucket add repeatable-install 'https://github.com/QuakeMatt/repeatable-install'
 scoop update *
 
+# Update the repeatable-install repository
+if (Test-Path "$env:USERPROFILE\Platform\repeatable-install") {
+    Push-Location "$env:USERPROFILE\Platform\repeatable-install"
+    git fetch
+    git checkout master
+    git reset --hard origin/master
+    Pop-Location
+}
+
 # Run software installation
 & "$PSScriptRoot/7tt/install.ps1"
 & "$PSScriptRoot/bandizip/install.ps1"
