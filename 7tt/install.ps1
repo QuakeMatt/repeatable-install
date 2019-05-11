@@ -14,4 +14,6 @@ reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Run /f /v "7 Taskbar Twea
     "\`"$env:USERPROFILE\scoop\apps\7tt\current\7+ Taskbar Tweaker.exe\`" -hidewnd"
 
 # Start 7tt now
-& "$env:USERPROFILE\scoop\apps\7tt\current\7+ Taskbar Tweaker.exe" -hidewnd
+if (-not (Get-Process -Name '7+ Taskbar Tweaker' -ErrorAction SilentlyContinue)) {
+    & "$env:USERPROFILE\scoop\apps\7tt\current\7+ Taskbar Tweaker.exe" -hidewnd
+}
