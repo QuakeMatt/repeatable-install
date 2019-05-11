@@ -23,5 +23,8 @@ scoop update *
 & "$PSScriptRoot/picpick/install.ps1"
 & "$PSScriptRoot/vscode/install.ps1"
 
+# Clean up
+scoop cleanup *
+
 # Run system configuration
 & "$PSScriptRoot/explorer/install.ps1"
