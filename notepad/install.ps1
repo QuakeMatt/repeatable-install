@@ -12,7 +12,9 @@ if (-not (Test-Path "$env:USERPROFILE\scoop\persist\$app\Notepad2.ini")) {
 scoop install $app
 
 # Replace build-in Notepad
-$path = "$env:USERPROFILE\scoop\apps\$app\current\Notepad2.exe"
-Set-Content -Path "$env:TEMP\replace-notepad.reg" -Value `
-    (Get-Content "$PSScriptRoot\replace-notepad.reg" -Raw).Replace("%NOTEPAD2%", $path.Replace("\", "\\"))
-sudo reg import "$env:TEMP\replace-notepad.reg"
+if (-not (Test-Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\notepad.exe')) {
+    $path = "$env:USERPROFILE\scoop\apps\$app\current\Notepad2.exe"
+    Set-Content -Path "$env:TEMP\replace-notepad.reg" -Value `
+        (Get-Content "$PSScriptRoot\replace-notepad.reg" -Raw).Replace("%NOTEPAD2%", $path.Replace("\", "\\"))
+    sudo reg import "$env:TEMP\replace-notepad.reg"
+}

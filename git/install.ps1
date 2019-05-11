@@ -9,8 +9,12 @@ git config --global user.email "quakematt@outlook.com"
 git config --global core.autocrlf input
 git config --global core.editor notepad
 
+# Configure ssh-agent
+if ((Get-Service ssh-agent).StartType -eq 'Disabled') {
+    sudo Set-Service ssh-agent -StartupType Automatic
+}
+
 # Configure OpenSSH
-sudo Set-Service ssh-agent -StartupType Automatic
 $ssh = (Get-Command 'ssh.exe').Path
 git config --global core.sshCommand "'$ssh'"
 
