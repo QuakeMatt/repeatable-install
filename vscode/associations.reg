@@ -1,0 +1,515 @@
+Windows Registry Editor Version 5.00
+
+
+; .gitattributes
+; ----------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\.gitattributes]
+
+[HKEY_CURRENT_USER\Software\Classes\.gitattributes]
+@="GITFile"
+"PerceivedType"="text"
+
+
+; .gitignore
+; ----------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\.gitignore]
+
+[HKEY_CURRENT_USER\Software\Classes\.gitignore]
+@="GITFile"
+"PerceivedType"="text"
+
+
+; .gitkeep
+; ----------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\.gitkeep]
+
+[HKEY_CURRENT_USER\Software\Classes\.gitkeep]
+@="GITFile"
+"PerceivedType"="text"
+
+
+; GITFile
+; ---------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\GITFile]
+
+[HKEY_CURRENT_USER\Software\Classes\GITFile]
+@="Git File"
+
+[HKEY_CURRENT_USER\Software\Classes\GITFile\DefaultIcon]
+@="%ICONPATH%\\git.ico,0"
+
+[HKEY_CURRENT_USER\Software\Classes\GITFile\Shell]
+@="Open"
+
+[HKEY_CURRENT_USER\Software\Classes\GITFile\Shell\Open]
+
+[HKEY_CURRENT_USER\Software\Classes\GITFile\Shell\Open\Command]
+@="\"%CODEPATH%\" \"%1\""
+
+
+; .js
+; ----------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\.js]
+
+[HKEY_CURRENT_USER\Software\Classes\.js]
+@="JSFile"
+"PerceivedType"="text"
+
+
+; JSFile
+; ---------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\JSFile]
+
+[HKEY_CURRENT_USER\Software\Classes\JSFile]
+@="JavaScript File"
+
+[HKEY_CURRENT_USER\Software\Classes\JSFile\DefaultIcon]
+@="%ICONPATH%\\js.ico,0"
+
+[HKEY_CURRENT_USER\Software\Classes\JSFile\Shell]
+@="Open"
+
+[HKEY_CURRENT_USER\Software\Classes\JSFile\Shell\Open]
+
+[HKEY_CURRENT_USER\Software\Classes\JSFile\Shell\Open\Command]
+@="\"%CODEPATH%\" \"%1\""
+
+
+; .ts
+; ----------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\.ts]
+
+[HKEY_CURRENT_USER\Software\Classes\.ts]
+@="TSFile"
+"Content Type"="text/prs.typescript"
+"PerceivedType"="text"
+
+
+; TSFile
+; ---------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\TSFile]
+
+[HKEY_CURRENT_USER\Software\Classes\TSFile]
+@="TypeScript File"
+
+[HKEY_CURRENT_USER\Software\Classes\TSFile\DefaultIcon]
+@="%ICONPATH%\\ts.ico,0"
+
+[HKEY_CURRENT_USER\Software\Classes\TSFile\Shell]
+@="Open"
+
+[HKEY_CURRENT_USER\Software\Classes\TSFile\Shell\Open]
+
+[HKEY_CURRENT_USER\Software\Classes\TSFile\Shell\Open\Command]
+@="\"%CODEPATH%\" \"%1\""
+
+
+; .json
+; ----------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\.json]
+
+[HKEY_CURRENT_USER\Software\Classes\.json]
+@="JSONFile"
+"PerceivedType"="text"
+
+
+; .lock
+; ----------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\.lock]
+
+[HKEY_CURRENT_USER\Software\Classes\.lock]
+@="JSONFile"
+"PerceivedType"="text"
+
+
+; .jshintrc
+; ----------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\.jshintrc]
+
+[HKEY_CURRENT_USER\Software\Classes\.jshintrc]
+@="JSONFile"
+"PerceivedType"="text"
+
+
+; JSONFile
+; ---------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\JSONFile]
+
+[HKEY_CURRENT_USER\Software\Classes\JSONFile]
+@="JSON File"
+
+[HKEY_CURRENT_USER\Software\Classes\JSONFile\DefaultIcon]
+@="%ICONPATH%\\json.ico,0"
+
+[HKEY_CURRENT_USER\Software\Classes\JSONFile\Shell]
+@="Open"
+
+[HKEY_CURRENT_USER\Software\Classes\JSONFile\Shell\Open]
+
+[HKEY_CURRENT_USER\Software\Classes\JSONFile\Shell\Open\Command]
+@="\"%CODEPATH%\" \"%1\""
+
+
+; .md
+; ----------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\.md]
+
+[HKEY_CURRENT_USER\Software\Classes\.md]
+@="MDFile"
+"PerceivedType"="text"
+
+
+; MDFile
+; ---------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\MDFile]
+
+[HKEY_CURRENT_USER\Software\Classes\MDFile]
+@="Markdown File"
+
+[HKEY_CURRENT_USER\Software\Classes\MDFile\DefaultIcon]
+@="%ICONPATH%\\md.ico,0"
+
+[HKEY_CURRENT_USER\Software\Classes\MDFile\Shell]
+@="Open"
+
+[HKEY_CURRENT_USER\Software\Classes\MDFile\Shell\Open]
+
+[HKEY_CURRENT_USER\Software\Classes\MDFile\Shell\Open\Command]
+@="\"%CODEPATH%\" \"%1\""
+
+
+; .css
+; ----------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\.css]
+
+[HKEY_CURRENT_USER\Software\Classes\.css]
+@="CSSFile"
+"PerceivedType"="text"
+
+
+; CSSFile
+; ---------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\CSSFile]
+
+[HKEY_CURRENT_USER\Software\Classes\CSSFile]
+@="CSS File"
+
+[HKEY_CURRENT_USER\Software\Classes\CSSFile\DefaultIcon]
+@="%ICONPATH%\\css.ico,0"
+
+[HKEY_CURRENT_USER\Software\Classes\CSSFile\Shell]
+@="Open"
+
+[HKEY_CURRENT_USER\Software\Classes\CSSFile\Shell\Open]
+
+[HKEY_CURRENT_USER\Software\Classes\CSSFile\Shell\Open\Command]
+@="\"%CODEPATH%\" \"%1\""
+
+
+; .scss
+; ----------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\.scss]
+
+[HKEY_CURRENT_USER\Software\Classes\.scss]
+@="SCSSFile"
+"PerceivedType"="text"
+
+
+; SCSSFile
+; ---------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\SCSSFile]
+
+[HKEY_CURRENT_USER\Software\Classes\SCSSFile]
+@="SCSS File"
+
+[HKEY_CURRENT_USER\Software\Classes\SCSSFile\DefaultIcon]
+@="%ICONPATH%\\sass.ico,0"
+
+[HKEY_CURRENT_USER\Software\Classes\SCSSFile\Shell]
+@="Open"
+
+[HKEY_CURRENT_USER\Software\Classes\SCSSFile\Shell\Open]
+
+[HKEY_CURRENT_USER\Software\Classes\SCSSFile\Shell\Open\Command]
+@="\"%CODEPATH%\" \"%1\""
+
+
+; .ps1
+; ----------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\.ps1]
+
+[HKEY_CURRENT_USER\Software\Classes\.ps1]
+@="Microsoft.PowerShellScript.1"
+"PerceivedType"="text"
+
+
+; Microsoft.PowerShellScript.1
+; ---------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\Microsoft.PowerShellScript.1]
+
+[HKEY_CURRENT_USER\Software\Classes\Microsoft.PowerShellScript.1]
+@="PowerShell Script"
+
+[HKEY_CURRENT_USER\Software\Classes\Microsoft.PowerShellScript.1\DefaultIcon]
+@="%ICONPATH%\\ps1.ico,0"
+
+[HKEY_CURRENT_USER\Software\Classes\Microsoft.PowerShellScript.1\Shell]
+@="Open"
+
+[HKEY_CURRENT_USER\Software\Classes\Microsoft.PowerShellScript.1\Shell\Open]
+
+[HKEY_CURRENT_USER\Software\Classes\Microsoft.PowerShellScript.1\Shell\Open\Command]
+@="\"%CODEPATH%\" \"%1\""
+
+
+; regfile
+; ---------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\regfile]
+
+[HKEY_CURRENT_USER\Software\Classes\regfile]
+
+[HKEY_CURRENT_USER\Software\Classes\regfile\shell]
+
+[HKEY_CURRENT_USER\Software\Classes\regfile\shell\edit]
+
+[HKEY_CURRENT_USER\Software\Classes\regfile\shell\edit\command]
+@="\"%CODEPATH%\" \"%1\""
+
+
+; .sh
+; ----------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\.sh]
+
+[HKEY_CURRENT_USER\Software\Classes\.sh]
+@="SHFile"
+"PerceivedType"="text"
+
+
+; SHFile
+; ---------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\SHFile]
+
+[HKEY_CURRENT_USER\Software\Classes\SHFile]
+@="PHP File"
+
+[HKEY_CURRENT_USER\Software\Classes\SHFile\DefaultIcon]
+@="%ICONPATH%\\sh.ico,0"
+
+[HKEY_CURRENT_USER\Software\Classes\SHFile\Shell]
+@="Open"
+
+[HKEY_CURRENT_USER\Software\Classes\SHFile\Shell\Open]
+
+[HKEY_CURRENT_USER\Software\Classes\SHFile\Shell\Open\Command]
+@="\"%CODEPATH%\" \"%1\""
+
+
+; .sql
+; ----------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\.sql]
+
+[HKEY_CURRENT_USER\Software\Classes\.sql]
+@="SQLFile"
+"PerceivedType"="text"
+
+
+; SQLFile
+; ---------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\SQLFile]
+
+[HKEY_CURRENT_USER\Software\Classes\SQLFile]
+@="SQL File"
+
+[HKEY_CURRENT_USER\Software\Classes\SQLFile\DefaultIcon]
+@="%ICONPATH%\\sql.ico,0"
+
+[HKEY_CURRENT_USER\Software\Classes\SQLFile\Shell]
+@="Open"
+
+[HKEY_CURRENT_USER\Software\Classes\SQLFile\Shell\Open]
+
+[HKEY_CURRENT_USER\Software\Classes\SQLFile\Shell\Open\Command]
+@="\"%CODEPATH%\" \"%1\""
+
+
+; .twig
+; ----------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\.twig]
+
+[HKEY_CURRENT_USER\Software\Classes\.twig]
+@="TWIGFile"
+"PerceivedType"="text"
+
+
+; TWIGFile
+; ---------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\TWIGFile]
+
+[HKEY_CURRENT_USER\Software\Classes\TWIGFile]
+@="Twig Template File"
+
+[HKEY_CURRENT_USER\Software\Classes\TWIGFile\DefaultIcon]
+@="%ICONPATH%\\twig.ico,0"
+
+[HKEY_CURRENT_USER\Software\Classes\TWIGFile\Shell]
+@="Open"
+
+[HKEY_CURRENT_USER\Software\Classes\TWIGFile\Shell\Open]
+
+[HKEY_CURRENT_USER\Software\Classes\TWIGFile\Shell\Open\Command]
+@="\"%CODEPATH%\" \"%1\""
+
+
+; .php
+; ----------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\.php]
+
+[HKEY_CURRENT_USER\Software\Classes\.php]
+@="PHPFile"
+"PerceivedType"="text"
+
+
+; PHPFile
+; ---------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\PHPFile]
+
+[HKEY_CURRENT_USER\Software\Classes\PHPFile]
+@="PHP File"
+
+[HKEY_CURRENT_USER\Software\Classes\PHPFile\DefaultIcon]
+@="%ICONPATH%\\php.ico,0"
+
+[HKEY_CURRENT_USER\Software\Classes\PHPFile\Shell]
+@="Open"
+
+[HKEY_CURRENT_USER\Software\Classes\PHPFile\Shell\Open]
+
+[HKEY_CURRENT_USER\Software\Classes\PHPFile\Shell\Open\Command]
+@="\"%CODEPATH%\" \"%1\""
+
+
+; .yml
+; ----------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\.yml]
+
+[HKEY_CURRENT_USER\Software\Classes\.yml]
+@="YAMLFile"
+"PerceivedType"="text"
+
+
+; .yaml
+; ----------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\.yaml]
+
+[HKEY_CURRENT_USER\Software\Classes\.yaml]
+@="YAMLFile"
+"PerceivedType"="text"
+
+
+; .dist
+; ----------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\.dist]
+
+[HKEY_CURRENT_USER\Software\Classes\.dist]
+@="YAMLFile"
+"PerceivedType"="text"
+
+
+; YAMLFile
+; ---------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\YAMLFile]
+
+[HKEY_CURRENT_USER\Software\Classes\YAMLFile]
+@="YAML File"
+
+[HKEY_CURRENT_USER\Software\Classes\YAMLFile\DefaultIcon]
+@="%ICONPATH%\\yml.ico,0"
+
+[HKEY_CURRENT_USER\Software\Classes\YAMLFile\Shell]
+@="Open"
+
+[HKEY_CURRENT_USER\Software\Classes\YAMLFile\Shell\Open]
+
+[HKEY_CURRENT_USER\Software\Classes\YAMLFile\Shell\Open\Command]
+@="\"%CODEPATH%\" \"%1\""
+
+
+; .xml
+; ----------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\.xml]
+
+[HKEY_CURRENT_USER\Software\Classes\.xml]
+@="XMLFile"
+"PerceivedType"="text"
+
+
+; XMLFile
+; ---------------------------------------------------------
+
+[-HKEY_CURRENT_USER\Software\Classes\XMLFile]
+
+[HKEY_CURRENT_USER\Software\Classes\XMLFile]
+@="XML Document"
+
+[HKEY_CURRENT_USER\Software\Classes\XMLFile\DefaultIcon]
+@="%ICONPATH%\\xml.ico,0"
+
+[HKEY_CURRENT_USER\Software\Classes\XMLFile\Shell]
+@="Open"
+
+[HKEY_CURRENT_USER\Software\Classes\XMLFile\Shell\Open]
+
+[HKEY_CURRENT_USER\Software\Classes\XMLFile\Shell\Open\Command]
+@="\"%CODEPATH%\" \"%1\""
+
+
+; Directory
+; ---------------------------------------------------------
+
+; [HKEY_CURRENT_USER\Software\Classes\Directory\shell\VSCode]
+; @="Open with VSCode"
+; "NoWorkingDirectory"=""
+
+; [HKEY_CURRENT_USER\Software\Classes\Directory\shell\VSCode\command]
+; @="\"%CODEPATH%\" \"%1\""
+
+; [HKEY_CURRENT_USER\Software\Classes\Directory\Background\shell\VSCode]
+; @="Open with VSCode"
+; "NoWorkingDirectory"=""
+
+; [HKEY_CURRENT_USER\Software\Classes\Directory\Background\shell\VSCode\command]
+; @="\"%CODEPATH%\" \"%V\""
