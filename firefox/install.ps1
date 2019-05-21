@@ -14,8 +14,8 @@ if (-not (Test-Path "$env:APPDATA\Mozilla\Firefox\Profiles\*.default")) {
 # Create prefs.js
 $prefs = (Resolve-Path "$env:APPDATA\Mozilla\Firefox\Profiles\*.default").Path + '\prefs.js'
 if (-not (Test-Path $prefs)) {
-    Copy-Item -Path "$PSScriptRoot\prefs-new.js" -Destination $prefs
+    Copy-Item -Path "$PSScriptRoot\prefs.once.js" -Destination $prefs
 }
 
 # Update prefs.js
-Add-Content $prefs (Get-Content "$PSScriptRoot\prefs-update.js")
+Add-Content $prefs (Get-Content "$PSScriptRoot\prefs.js")
