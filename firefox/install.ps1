@@ -1,6 +1,6 @@
 Write-Output "Installing Firefox..."
 
-$app = 'x-firefox'
+$app = 'firefox'
 
 # Install Firefox
 scoop install $app

@@ -1,6 +1,6 @@
 Write-Output "Installing Notepad2..."
 
-$app = 'x-notepad2-mod'
+$app = 'notepad2-mod'
 
 # Install config
 if (-not (Test-Path "$env:USERPROFILE\scoop\persist\$app\Notepad2.ini")) {

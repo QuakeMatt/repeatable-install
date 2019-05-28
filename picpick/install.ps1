@@ -1,6 +1,6 @@
 Write-Output "Installing PicPick..."
 
-$app = 'x-picpick';
+$app = 'picpick';
 
 # Install config
 if (-not (Test-Path "$env:USERPROFILE\scoop\persist\$app\picpick.ini")) {

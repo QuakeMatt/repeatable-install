@@ -8,7 +8,7 @@ if (-not (Get-Command scoop -ErrorAction SilentlyContinue)) {
 # Install/update main dependencies
 scoop install 7zip git
 scoop bucket add extras
-scoop bucket add repeatable-install 'https://github.com/QuakeMatt/repeatable-install'
+scoop bucket add arch 'https://github.com/QuakeMatt/repeatable-install'
 scoop update *
 
 # Update the repeatable-install repository
