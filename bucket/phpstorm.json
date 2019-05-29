@@ -1,0 +1,46 @@
+{
+    "version": "2019.1.2",
+    "homepage": "https://www.jetbrains.com/phpstorm/",
+    "url": "https://download.jetbrains.com/webide/PhpStorm-2019.1.2.exe#/dl.7z",
+    "hash": "7d8bd021b08d8cf6a2f4162fb5c278612d1481bb1290ed5c995b603e99f3ff55",
+    "architecture": {
+        "64bit": {
+            "bin": [
+                [
+                    "bin\\phpstorm64.exe",
+                    "phpstorm"
+                ]
+            ],
+            "shortcuts": [
+                [
+                    "bin\\phpstorm64.exe",
+                    "JetBrains PhpStorm"
+                ]
+            ]
+        },
+        "32bit": {
+            "bin": [
+                [
+                    "bin\\phpstorm.exe",
+                    "webstorm"
+                ]
+            ],
+            "shortcuts": [
+                [
+                    "bin\\phpstorm.exe",
+                    "JetBrains PhpStorm"
+                ]
+            ]
+        }
+    },
+    "checkver": {
+        "url": "https://data.services.jetbrains.com/products/releases?code=PS&latest=true&type=release",
+        "jp": "$..version"
+    },
+    "autoupdate": {
+        "url": "https://download.jetbrains.com/webide/PhpStorm-$version.exe#/dl.7z",
+        "hash": {
+            "url": "https://download.jetbrains.com/webide/PhpStorm-$version.exe.sha256"
+        }
+    }
+}
