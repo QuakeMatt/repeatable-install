@@ -15,6 +15,7 @@ user_pref("browser.newtabpage.activity-stream.migrationExpired", true);
 user_pref("browser.newtabpage.activity-stream.prerender", false);
 
 // Switch to the dark theme
+user_pref("devtools.theme", "dark");
 user_pref("lightweightThemes.persisted.headerURL", false);
 user_pref("lightweightThemes.selectedThemeID", "firefox-compact-dark@mozilla.org");
 
