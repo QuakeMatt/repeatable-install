@@ -24,6 +24,8 @@ user_pref("font.name.sans-serif.x-western", "Segoe UI");
 user_pref("font.name.serif.x-western", "Cambria");
 
 // Usability tweaks
+user_pref("browser.bookmarks.openInTabClosesMenu", false);
+user_pref("browser.tabs.loadBookmarksInBackground", true);
 user_pref("layout.spellcheckDefault", 0);
 user_pref("layout.word_select.eat_space_to_next_word", false);
 
