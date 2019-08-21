@@ -1,9 +1,9 @@
 {
     "homepage": "https://picpick.app",
     "description": "A full-featured screen capture tool, intuitive image editor, color picker, color palette, pixel-ruler, protractor, crosshair, whiteboard and more.",
-    "version": "5.0.5",
+    "version": "5.0.6",
     "url": "https://www.picpick.org/releases/latest/picpick_portable.zip",
-    "hash": "50ab422c3e644858aff76efa84e7f6af8f974067478347b7245f843fa3909ed7",
+    "hash": "0b393c8882e581a4bcc4c6b6fb03f2994aa548e51b82846053d6c2fe8d77dd57",
     "bin": "picpick.exe",
     "shortcuts": [
         [
