@@ -4,6 +4,7 @@ $app = 'firefox'
 
 # Install Firefox
 scoop install $app
+scoop hold $app
 
 # Create the default profile
 if (-not (Test-Path "$env:APPDATA\Mozilla\Firefox\Profiles\*.default")) {
