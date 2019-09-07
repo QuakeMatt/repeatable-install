@@ -1,8 +1,8 @@
 {
     "homepage": "http://www.bandisoft.com/bandizip/",
     "license": "Freeware(EULA)",
-    "version": "6.24",
-    "hash": "ea945a1916fb576f3bdd7d9eddad10d5f5aae20685651017d35c6a446ef95536",
+    "version": "6.25",
+    "hash": "2f555765b9cfca024fad86486079718ef91674a3ee8482c0aa7e5cd48fa773e2",
     "url": "https://dl.bandisoft.com/bandizip/BANDIZIP-SETUP.EXE#/dl.7z",
     "bin": "Bandizip64.exe",
     "shortcuts": [
