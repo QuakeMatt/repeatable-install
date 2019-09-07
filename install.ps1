@@ -27,7 +27,7 @@ if (Test-Path "$env:USERPROFILE\Platform\repeatable-install") {
 & "$PSScriptRoot/firefox/install.ps1"
 & "$PSScriptRoot/git/install.ps1"
 & "$PSScriptRoot/hotkeys/install.ps1"
-& "$PSScriptRoot/hotkeys/keypass.ps1"
+& "$PSScriptRoot/keepass/install.ps1"
 & "$PSScriptRoot/node/install.ps1"
 & "$PSScriptRoot/notepad/install.ps1"
 & "$PSScriptRoot/picpick/install.ps1"
