@@ -4,7 +4,6 @@ $app = 'vscode'
 
 # Install VSCode
 scoop install $app
-scoop hold $app
 
 # Install settings-sync extension
 code.cmd --install-extension 'Shan.code-settings-sync'
