@@ -149,3 +149,15 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\AppEvents\Schemes\Names\Matt]
 @="Matt"
+
+
+; Update the ".Current" sound scheme
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemAsterisk\.Current]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemExclamation\.Current]
+@=""
+
+[HKEY_CURRENT_USER\AppEvents\Schemes\Apps\.Default\SystemHand\.Current]
+@=""
