@@ -1,8 +1,8 @@
 {
-    "version": "2019.2.4",
+    "version": "2019.3",
     "homepage": "https://www.jetbrains.com/phpstorm/",
-    "url": "https://download.jetbrains.com/webide/PhpStorm-2019.2.4.exe#/dl.7z",
-    "hash": "11c5c5ea5aa6fb140fdbc3b2cf33b5d5b5a59377b560b5b86d45cadaa964d7fe",
+    "url": "https://download.jetbrains.com/webide/PhpStorm-2019.3.exe#/dl.7z",
+    "hash": "bea7a03e024ab0612e648d34e885e0470322365ce3276fe99ece2b2ff3a241a5",
     "architecture": {
         "64bit": {
             "bin": [
