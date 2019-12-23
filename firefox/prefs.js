@@ -7,6 +7,9 @@ user_pref("extensions.screenshots.disabled", true);
 // Always show the download button
 user_pref("browser.download.autohideButton", false);
 
+// Always prompt for download location
+user_pref("browser.download.useDownloadDir", false);
+
 // Disable all homepage widgets
 user_pref("browser.newtabpage.activity-stream.feeds.snippets", false);
 user_pref("browser.newtabpage.activity-stream.feeds.section.highlights", false);
@@ -29,6 +32,7 @@ user_pref("browser.bookmarks.openInTabClosesMenu", false);
 user_pref("browser.tabs.loadBookmarksInBackground", true);
 user_pref("layout.spellcheckDefault", 0);
 user_pref("layout.word_select.eat_space_to_next_word", false);
+user_pref("toolkit.winRegisterApplicationRestart", false);
 
 // Faster full-screen transition
 user_pref("full-screen-api.transition-duration.enter", "120 120");
