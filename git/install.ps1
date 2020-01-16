@@ -12,6 +12,7 @@ git config --global core.editor notepad
 # Configure ssh-agent
 if ((Get-Service ssh-agent).StartType -eq 'Disabled') {
     sudo Set-Service ssh-agent -StartupType Automatic
+    Start-Service ssh-agent
 }
 
 # Configure OpenSSH
