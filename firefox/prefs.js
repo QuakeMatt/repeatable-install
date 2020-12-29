@@ -13,6 +13,7 @@ user_pref("browser.download.useDownloadDir", false);
 // Disable all homepage widgets
 user_pref("browser.newtabpage.activity-stream.feeds.snippets", false);
 user_pref("browser.newtabpage.activity-stream.feeds.section.highlights", false);
+user_pref("browser.newtabpage.activity-stream.feeds.section.topstories", false);
 user_pref("browser.newtabpage.activity-stream.feeds.topsites", false);
 user_pref("browser.newtabpage.activity-stream.migrationExpired", true);
 user_pref("browser.newtabpage.activity-stream.prerender", false);
@@ -21,6 +22,7 @@ user_pref("browser.newtabpage.activity-stream.prerender", false);
 user_pref("devtools.theme", "dark");
 user_pref("lightweightThemes.persisted.headerURL", false);
 user_pref("lightweightThemes.selectedThemeID", "firefox-compact-dark@mozilla.org");
+user_pref("extensions.activeThemeID", "firefox-compact-dark@mozilla.org");
 
 // Better default fonts
 user_pref("font.name.monospace.x-western", "Consolas");
@@ -32,6 +34,7 @@ user_pref("browser.bookmarks.openInTabClosesMenu", false);
 user_pref("browser.tabs.loadBookmarksInBackground", true);
 user_pref("layout.spellcheckDefault", 0);
 user_pref("layout.word_select.eat_space_to_next_word", false);
+user_pref("media.videocontrols.picture-in-picture.video-toggle.enabled", false);
 user_pref("toolkit.winRegisterApplicationRestart", false);
 
 // Faster full-screen transition
