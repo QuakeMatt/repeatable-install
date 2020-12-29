@@ -105,7 +105,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.001\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.7z]
 @="Compressed File (7Z)"
@@ -119,7 +119,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.7z\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.ace]
 @="Compressed File (ACE)"
@@ -133,7 +133,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.ace\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.aes]
 @="Compressed File (AES)"
@@ -147,7 +147,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.aes\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.alz]
 @="Compressed File (ALZ)"
@@ -161,7 +161,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.alz\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.arc]
 @="Compressed File (Arc)"
@@ -175,7 +175,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.arc\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.arj]
 @="Compressed File (ARJ)"
@@ -189,7 +189,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.arj\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.bh]
 @="Compressed File (BH)"
@@ -203,7 +203,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.bh\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.bz]
 @="Compressed File (BZ)"
@@ -220,7 +220,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.bz2\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.bz\DefaultIcon]
 @="%BANDIZIP%\\icons\\default\\Bandizip.ico"
@@ -231,7 +231,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.bz\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.cab]
 @="Compressed File (CAB)"
@@ -245,7 +245,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.cab\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.egg]
 @="Compressed File (EGG)"
@@ -259,7 +259,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.egg\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.gz]
 @="Compressed File (GZ)"
@@ -273,7 +273,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.gz\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.lha]
 @="Compressed File (LHA)"
@@ -287,7 +287,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.lha\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.lz]
 @="Compressed File (LZ)"
@@ -301,7 +301,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.lz\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.lzh]
 @="Compressed File (LZH)"
@@ -315,7 +315,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.lzh\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.lzma]
 @="Compressed File (LZMA)"
@@ -329,7 +329,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.lzma\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.pma]
 @="Compressed File (PMA)"
@@ -343,7 +343,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.pma\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.rar]
 @="Compressed File (RAR)"
@@ -357,7 +357,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.rar\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.tar]
 @="Compressed File (TAR)"
@@ -371,7 +371,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.tar\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.tbz]
 @="Compressed File (TBZ)"
@@ -388,7 +388,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.tbz2\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.tbz\DefaultIcon]
 @="%BANDIZIP%\\icons\\default\\tbz.ico"
@@ -399,7 +399,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.tbz\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.tgz]
 @="Compressed File (TGZ)"
@@ -413,7 +413,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.tgz\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.tlz]
 @="Compressed File (TLZ)"
@@ -427,7 +427,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.tlz\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.txz]
 @="Compressed File (TXZ)"
@@ -441,7 +441,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.txz\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.xz]
 @="Compressed File (XZ)"
@@ -455,7 +455,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.xz\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.z]
 @="Compressed File (Z)"
@@ -469,7 +469,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.z\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.zip]
 @="Compressed File (ZIP)"
@@ -483,7 +483,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.zip\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.zipx]
 @="Compressed File (ZIPX)"
@@ -497,7 +497,7 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.zipx\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.zpaq]
 @="Compressed File (ZPAQ)"
@@ -511,13 +511,13 @@ Windows Registry Editor Version 5.00
 "FriendlyAppName"="Bandizip"
 
 [HKEY_CURRENT_USER\Software\Classes\Bandizip.zpaq\Shell\Open\Command]
-@="\"%BANDIZIP%\\Bandizip64.exe\" \"%1\""
+@="\"%BANDIZIP%\\Bandizip.x64.exe\" \"%1\""
 
 [HKEY_CURRENT_USER\Software\Classes\CLSID\{5B69A6B4-393B-459C-8EBB-214237A9E7AC}]
 @="AABdzCtx Class"
 
 [HKEY_CURRENT_USER\Software\Classes\CLSID\{5B69A6B4-393B-459C-8EBB-214237A9E7AC}\InprocServer32]
-@="%BANDIZIP%\\bdzshl64.dll"
+@="%BANDIZIP%\\bdzshl.x64.dll"
 "ThreadingModel"="Apartment"
 
 [HKEY_CURRENT_USER\Software\Classes\Directory\Background\shellex\ContextMenuHandlers\AABdzCtx]
@@ -549,5 +549,5 @@ Windows Registry Editor Version 5.00
 @="AABdzCtx Class"
 
 [HKEY_CURRENT_USER\Software\Classes\WOW6432Node\CLSID\{5B69A6B4-393B-459C-8EBB-214237A9E7AC}\InprocServer32]
-@="%BANDIZIP%\\bdzshl32.dll"
+@="%BANDIZIP%\\bdzshl.x64.dll"
 "ThreadingModel"="Apartment"
