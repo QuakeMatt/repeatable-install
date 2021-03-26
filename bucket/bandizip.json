@@ -1,13 +1,14 @@
 {
     "homepage": "http://www.bandisoft.com/bandizip/",
     "license": "Freeware(EULA)",
-    "version": "7.13",
-    "hash": "0ccd17c24a953800e096de2d619dd061e93d3108fe86516cf7d14e2788988bdb",
+    "version": "7.15",
+    "hash": "9c07f5c673b98bae3f9e2c7be7829bf300304f5bdeeb6476f7c0f96349370e0c",
     "url": "https://dl.bandisoft.com/bandizip.std/BANDIZIP-SETUP-STD-X64.EXE#/dl.7z",
-    "bin": "Bandizip.x64.exe",
+    "bin": "Bandizip.exe",
+    "pre_install": "Rename-Item \"$dir\\Bandizip.x64.exe\" 'Bandizip.exe'",
     "shortcuts": [
         [
-            "Bandizip.x64.exe",
+            "Bandizip.exe",
             "Bandizip"
         ]
     ],
