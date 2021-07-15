@@ -1,8 +1,8 @@
 {
-    "version": "2020.3.3",
+    "version": "2021.1.4",
     "homepage": "https://www.jetbrains.com/phpstorm/",
-    "url": "https://download.jetbrains.com/webide/PhpStorm-2020.3.3.exe#/dl.7z",
-    "hash": "851ccbb783e5e163c5efde694c6535bc81333995ba6b3c507741bd640c94a988",
+    "url": "https://download.jetbrains.com/webide/PhpStorm-2021.1.4.exe#/dl.7z",
+    "hash": "aa292bceba034bd396408470d74144aa80cb88656cd16f56370a7b37e2506de2",
     "architecture": {
         "64bit": {
             "bin": [
