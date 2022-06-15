@@ -1,8 +1,8 @@
 {
-    "version": "2022.1.1",
+    "version": "2022.1.2",
     "homepage": "https://www.jetbrains.com/phpstorm/",
-    "url": "https://download.jetbrains.com/webide/PhpStorm-2022.1.1.exe#/dl.7z",
-    "hash": "495a8c4c872d9e90075037b8ca46f718feae46cbfe6018e04f443d8f59ef2733",
+    "url": "https://download.jetbrains.com/webide/PhpStorm-2022.1.2.exe#/dl.7z",
+    "hash": "f4d9d2f2e710ad69faf82723d19da28b99a509912159a2c80d3bd8a64dd277ba",
     "architecture": {
         "64bit": {
             "bin": [
