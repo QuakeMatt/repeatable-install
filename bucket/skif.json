@@ -1,9 +1,9 @@
 {
     "homepage": "https://discourse.differentk.fyi/",
     "description": "An extensive game modifying framework allowing for various forms of in-depth tweaking of a game.",
-    "version": "21.04.04",
+    "version": "22.09.26",
     "url": "https://sk-data.special-k.info/SpecialK.7z",
-    "hash": "dfd361de39bf80c21875611827af828805c26029d853850fa8195f75b64a7689",
+    "hash": "1368c11b6146fa0cf65285c5b11fb0c6acea280e28b9cfef637020a3b42b1bfc",
     "shortcuts": [
         [
             "SKIF.exe",
