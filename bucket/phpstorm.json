@@ -1,8 +1,8 @@
 {
-    "version": "2023.3.5",
+    "version": "2024.1.1",
     "homepage": "https://www.jetbrains.com/phpstorm/",
-    "url": "https://download.jetbrains.com/webide/PhpStorm-2023.3.5.exe#/dl.7z",
-    "hash": "cdbe5f9fb0b4a10c53800e7db938ff87863d7beae53784bf59480f563c366a4d",
+    "url": "https://download.jetbrains.com/webide/PhpStorm-2024.1.1.exe#/dl.7z",
+    "hash": "47ad2d65d38da017767a4cd4703f040ed4eaae317ef7866abfab8a4fc517f641",
     "architecture": {
         "64bit": {
             "bin": [
