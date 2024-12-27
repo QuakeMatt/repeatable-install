@@ -1,6 +1,6 @@
 Write-Output "Installing Bandizip..."
 
-$app = 'bandizip';
+$app = 'x-bandizip';
 
 # Install Bandizip
 scoop install $app
